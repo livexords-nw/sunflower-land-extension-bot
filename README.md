@@ -78,7 +78,7 @@ Follow these steps to install the Sunflower Land Extension Bot:
 This project is developed by **Sunflower Land Extension Bot Team**. If you have suggestions, questions, or would like to contribute, feel free to reach out:
 
 <div align="center">
-  <a href="https://t.me/your_telegram_channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contribute&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  <a href="https://t.me/livexordsscript" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LIVEXORDS&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
